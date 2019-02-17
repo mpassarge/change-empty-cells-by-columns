@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
  */
 public class Runner {
 
-    public static final Logger LOG = LoggerFactory.getLogger(Runner.class);
+    private static final Logger LOG = LoggerFactory.getLogger(Runner.class);
 
     public static void main(String[] args) {
 
